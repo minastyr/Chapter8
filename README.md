@@ -20,7 +20,7 @@ From the code location, run NPM Start to compile and run the JS built code.
 
 ## Usage
 Select the default Toyota car or build a new one.  Simply answer the questions in the prompts as demonstrated in the video
-at https://drive.google.com/file/d/1d2nifubzahtNJMVvdKqrVGOdBmlMPge5/view.  Afterward, you can issue commands to the vehicle as well as print out the captured specs in the console window.
+at (https://drive.google.com/file/d/1mXnjaOOtHuzXScI5QhMaao-jr-QdW4Im/view).  Afterward, you can issue commands to the vehicle as well as print out the captured specs in the console window.
 Select EXIT when done.
 
 
