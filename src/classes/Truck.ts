@@ -48,7 +48,7 @@ class Truck extends Vehicle {
         } else {
           this.wheels = wheels;
         }
-        this.towingCapacity = this.towingCapacity;
+        this.towingCapacity = towingCapacity;
 
       }
    
@@ -62,7 +62,7 @@ class Truck extends Vehicle {
     } }
 
 
-  }
+  
 
      override printDetails(): void {
       // Call the printDetails method of the parent class, Vehicle
